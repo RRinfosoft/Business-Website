@@ -1,0 +1,31 @@
+.card-imge{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: auto !important;
+  }
+  
+  .card-imge2{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    margin: auto !important;
+  }
+  .carod1{
+    width: 18rem;
+    display: flex !important;
+  }
+ .pro{
+    text-align: center;
+    font-size: 1.6rem;
+    font-family: serif;
+ }
+ .star{
+    text-align: center;
+    font-size: 2.5rem;
+    color: rgb(170, 170, 5);
+ }
+ .saul{
+    text-align: center !important;
+    font-family: serif;
+ }
